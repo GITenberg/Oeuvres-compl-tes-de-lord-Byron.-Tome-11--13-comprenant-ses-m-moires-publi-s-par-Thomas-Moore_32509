@@ -39,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1708
     wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32509#Oeuvres-compl-tes-de-lord-Byron.-Tome-11--13-comprenant-ses-m-moires-publi-s-par-Thomas-Moore
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-05-24'
 gutenberg_type: Text
